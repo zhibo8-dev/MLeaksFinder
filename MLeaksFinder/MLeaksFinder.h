@@ -11,7 +11,7 @@
  */
 
 #import "NSObject+MemoryLeak.h"
-
+//测试
 //#define MEMORY_LEAKS_FINDER_ENABLED 0
 
 #ifdef MEMORY_LEAKS_FINDER_ENABLED
